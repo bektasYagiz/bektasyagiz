@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bektasyagiz&label=Profile%20views&color=0e75b6&style=flat" alt="bektasyagiz" /> </p>
 
-- 🌱 I’m currently learning **Node.js,Java**
+- 🌱 I’m currently learning **Node.js , Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SnapDragon" height="30" width="40" />Flâner</a>
-<a href = "mailto: yagizzbektas@gmail.com"><img></img>Send Email</a>
+<a href = "mailto: yagizzbektas@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/bektasYagiz/bektasyagiz/main/Mail-Logo.svg" alt="SnapDragon" height="30" width="40"/>Send Email</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
