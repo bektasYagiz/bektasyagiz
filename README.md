@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yağız Bektaş</h1>
-<h3 align="center">A 16-year-old Turkish Game Developer, 3D Designer and amateur Web Designer</h3>
+<h3 align="center">A 16-year-old Turkish Game Developer, 3D Designer and junior Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bektasyagiz&label=Profile%20views&color=0e75b6&style=flat" alt="bektasyagiz" /> </p>
 
